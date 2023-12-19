@@ -1,13 +1,11 @@
-### Hi there, my name is Taynara 👋
+# Apresentação:
+### Olá, meu nome é Taynara 👋
 
-Here are some information about me:
+- 🔭 Atualmente, estou cursando Engenharia da Computação na PUC-Campinas.
+- 😄 Meu objetivo principal neste momento é aprender e desenvolver projetos.
+- 💬 Tenho interesse em ampliar meu "network" para compartilhar conhecimentos, especialmente aprender com pessoas mais experientes.
 
-- 🔭 I’m studying Computer Engineering in PUC-Campinas
-- 🤔 About it, I'm just new in the computer field
-- 💬 I want meet new people in this field, and learn from them
-- 😄 You can call me Tay
-
-##
+## Análise do GitHub:
 
 <div>
 <a href="https://github.com/Thay483">
