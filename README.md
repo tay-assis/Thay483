@@ -7,11 +7,9 @@
 
 ## Análise do GitHub:
 
-<div>
-<a href="https://github.com/Thay483">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thay483&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thay483&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+<a href="https://github.com/tay-assis/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tay-assis" />
+</a>
 
 ## Contatos:
 
