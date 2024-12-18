@@ -11,8 +11,7 @@ I am currently studying Computer Engineering at **PUC-Campinas** and I am lookin
 - Scientific Research (Ongoing)  
 
 ## Projects  
-- Vector manipulation and mathematical calculations 
-  *For hand movement quantification and manual iteration (Ongoing)*  
+- Vector manipulation and mathematical calculations for the quantification of hand movements and manual interaction (Ongoing)
 
 ## Languages  
 - Native Portuguese  
