@@ -14,8 +14,8 @@ Atualmente, estou cursando Engenharia de Computação na PUC-Campinas e busco op
 - Manipulação vetorial e cálculos matemáticos para quantificação dos movimentos das mãos e iteração manual (Em andamento)
 
 ## Linguagens
-- Native Portuguese
-- Intermediary English
+- Português Nativo
+- Inglês Intermediário
 
 ## Interesses
 - Desenvolvedor de Software
