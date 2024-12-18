@@ -1,6 +1,6 @@
 ![header](/images/header.svg)
 
-## About Me
+## Sobre mim
 Atualmente, estou cursando Engenharia de Computação na PUC-Campinas e busco oportunidades que me desafiem a crescer tanto pessoalmente quanto profissionalmente. Durante o último semestre, desenvolvi projetos que me permitiram aprofundar meus conhecimentos em desenvolvimento web, arquitetura de computadores e pensamento empreendedor, incluindo a criação de soluções de software a partir de necessidades reais. Além disso, aprendi a importância do trabalho em equipe e de outros aspectos essenciais para o meu desenvolvimento como profissional.
 
 ## Conecte-se comigo 
