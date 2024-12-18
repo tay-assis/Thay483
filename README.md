@@ -1,30 +1,23 @@
-# Apresentação:
-### Olá, meu nome é Taynara 👋
+![header](/images/header.svg)
 
-- 🔭 Atualmente, estou cursando Engenharia da Computação na PUC-Campinas.
-- 😄 Meu objetivo principal neste momento é aprender e desenvolver projetos.
-- 💬 Tenho interesse em ampliar meu "network" para compartilhar conhecimentos, especialmente aprender com pessoas mais experientes.
+## About Me
+Atualmente, estou cursando Engenharia de Computação na PUC-Campinas e busco oportunidades que me desafiem a crescer tanto pessoalmente quanto profissionalmente. Durante o último semestre, desenvolvi projetos que me permitiram aprofundar meus conhecimentos em desenvolvimento web, arquitetura de computadores e pensamento empreendedor, incluindo a criação de soluções de software a partir de necessidades reais. Além disso, aprendi a importância do trabalho em equipe e de outros aspectos essenciais para o meu desenvolvimento como profissional.
 
-## Análise do GitHub:
+## Conecte-se comigo 
+<a href="https://www.linkedin.com/in/taynara-ara%C3%BAjo/" target="blank"><img align="center" src="./images/linkedin.svg" alt="taynara-araújo" height="30" width="40" /></a>
+<a href="https://www.instagram.com/tayaassis_/" target="blank"><img align="center" src="./images/instagram.svg" alt="tayaassis_" height="30" width="40" /></a>
 
-<a href="https://github.com/tay-assis/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tay-assis" />
-</a>
+## Experiência
+- Iniciação Ciêntífica (Em andamento)
 
-## Ferramentas e Tecnologias
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcodespaces/githubcodespaces-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
-          
-             
-</div>
+## Projetos
+- Manipulação vetorial e cálculos matemáticos para quantificação dos movimentos das mãos e iteração manual (Em andamento)
 
-## Contatos:
+## Linguagens
+- Native Portuguese
+- Intermediary English
 
-<div>
-<a href="https://instagram.com/_thay_ofc_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/taynara-araújo-34a4a9173" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
-
-
-
-
+## Interesses
+- Desenvolvedor de Software
+- Governança em TI
+- Líder em Engenharia de Software
