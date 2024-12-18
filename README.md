@@ -1,23 +1,24 @@
 ![header](/images/header.svg)
 
-## Sobre mim
-Atualmente, estou cursando Engenharia de Computação na PUC-Campinas e busco oportunidades que me desafiem a crescer tanto pessoalmente quanto profissionalmente. Durante o último semestre, desenvolvi projetos que me permitiram aprofundar meus conhecimentos em desenvolvimento web, arquitetura de computadores e pensamento empreendedor, incluindo a criação de soluções de software a partir de necessidades reais. Além disso, aprendi a importância do trabalho em equipe e de outros aspectos essenciais para o meu desenvolvimento como profissional.
+## About Me  
+I am currently studying Computer Engineering at **PUC-Campinas** and I am looking for opportunities that challenge me to grow both personally and professionally. During the last semester, I worked on projects that allowed me to deepen my knowledge in web development, computer architecture, and entrepreneurial thinking, including creating software solutions based on real needs. In addition, I learned the importance of teamwork and other essential aspects for my development as a professional.  
 
-## Conecte-se comigo 
+## Connect With Me  
 <a href="https://www.linkedin.com/in/taynara-ara%C3%BAjo/" target="blank"><img align="center" src="./images/linkedin.svg" alt="taynara-araújo" height="30" width="40" /></a>
 <a href="https://www.instagram.com/tayaassis_/" target="blank"><img align="center" src="./images/instagram.svg" alt="tayaassis_" height="30" width="40" /></a>
 
-## Experiência
-- Iniciação Ciêntífica (Em andamento)
+## Experience  
+- Scientific Research (Ongoing)  
 
-## Projetos
-- Manipulação vetorial e cálculos matemáticos para quantificação dos movimentos das mãos e iteração manual (Em andamento)
+## Projects  
+- Vector manipulation and mathematical calculations 
+  *For hand movement quantification and manual iteration (Ongoing)*  
 
-## Linguagens
-- Português Nativo
-- Inglês Intermediário
+## Languages  
+- Native Portuguese  
+- Intermediate English 
 
-## Interesses
-- Desenvolvedor de Software
-- Governança em TI
-- Líder em Engenharia de Software
+## Interests  
+- Software Developer
+- IT Governance
+- Software Engineering Leader
